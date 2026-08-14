@@ -129,10 +129,6 @@ See the `screenshots/` directory.
 
 The application can be deployed for free using GitHub Pages because it is a static HTML/CSS/JavaScript project. See `DEPLOYMENT.md`.
 
-## Demo
-
-A ready-to-follow 10-minute presentation script is provided in `demo_script.md`.
-
 ## Future Improvements
 
 - Real LLM integration through a secure backend
